@@ -45,7 +45,7 @@ except URLError as e:
 
 
 
-# streamlit.stop()
+streamlit.stop()
 
 streamlit.header("The fruit lead list contains:")
 # snoflake-related funtions
